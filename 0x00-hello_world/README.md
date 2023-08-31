@@ -1,0 +1,1 @@
+This directory contains shell scripts for 0x00. C - Hello, World
